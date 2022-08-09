@@ -12,6 +12,13 @@ A basic movement anticheat for Roblox.
 How does it work?
   - Pythagoream theoream. Easy.
 
+
+How to setup?
+  - Copy main.lua file into StarterPlayerScripts
+  - Make a RemoteEvent called "RemoteEvent" in ReplicatedStorage
+  - Copy server.lua file into ServerScriptStorage
+  - done
+
 Fork it idc
 
 a small warning: the code is a mess
