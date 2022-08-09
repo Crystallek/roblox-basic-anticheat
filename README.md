@@ -13,5 +13,7 @@ How does it work?
   - Pythagoream theoream. Easy.
 
 Fork it idc
+
+a small warning: the code is a mess
   
 
