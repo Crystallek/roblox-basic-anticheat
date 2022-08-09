@@ -7,3 +7,4 @@ end
 
 remoteEvent.OnServerEvent:Connect(kick)
 
+
