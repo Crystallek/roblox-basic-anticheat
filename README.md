@@ -1,5 +1,7 @@
 # roblox-basic-anticheat
 
+<img src="https://komarev.com/ghpvc/?username=aszope&style=flat-square&label=REPO+VIEWS" />
+
 A basic movement anticheat for Roblox.
   - Detects 98% of the tested scripts.
   - Detects even the slightest changes in the walkspeed.
