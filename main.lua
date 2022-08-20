@@ -86,7 +86,6 @@ while true do
 	if distanceY < -6 then
 		if playerState ~= Enum.HumanoidStateType.Seated then
 			flagCounter += 3
-			print("lol")
 		end
 	end
 	
